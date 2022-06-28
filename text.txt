@@ -1,8 +1,0 @@
-FizzBuzz
-
-La función realizara el conteo del 1 al 100 o el numero que el usuario aya ingresado como limite ( si el usuario ingresa un valor que no sea numérico el código asignara como limite el valor de 100 y también corroborara que si el usuario ingresa no sea mayor a 100)
-Cada numero de la interacción que sea divisible entre los 2 números que va ingresar el usuario va a ser sustituido por las palabras ingresadas.(el código realizara la verificación de que ambas palabras ingresadas no sean iguales)
-Si i es divisible por el primer divisor  va a ser sustituido por la primera palabra  o si es divisible por el segundo divisor sera remplazado por la segunda palabra y si i es divisible por ambos divisores ambas palabras lo sustituirán en la cadena  )
-La función mostrara por consola un string con el resultado del conteo sustituyendo los valores que cumplan con los parámetros de la función
-
- 
